@@ -1,0 +1,115 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+    background-color:  #e5eada ;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+img {}
+
+
+.quichesize {
+    font-size: 27px;
+}
+
+.recipes {
+    font-size: 30px;
+    text-align: center;
+    color: green;
+}
+
+.listspace {
+    line-height: 1.2;
+}
+
+.listspace2 {
+    line-height: 1.5;
+}
+
+.border {
+    position: relative;
+    left: 15px;
+}
+
+
+
+.quicheright {
+    position: relative;
+    left: 38px;
+}
+#howtoup {
+    position: relative;
+    bottom: 50px;
+}
+
+.howtoright {
+    position: relative;
+    left: 22px;
+}
+
+
+
+.lemondirectionsmove {
+    position: relative;
+    left: 25px;
+    top: 45px;
+}
+
+#nopoints {
+    list-style: none;
+}
+
+.container {
+  margin: auto;
+  width: 90%;
+  padding: 15px;
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 50px;
+}
+
+.container2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 90%;
+}
+
+
+.container2child {
+    margin: auto;
+}
+
+.description .recde1 {
+    font-size: 26px;
+    font-weight: 600;
+}
+.description .recde2 {
+    font-size: 18px;
+    font-weight: 550;
+}
+
+.linkquiche {
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+
+.linkdown {
+    position: relative;
+    bottom: 0px;
+    left: 600px;
+}
+
+.lemonlink {
+    position: relative;
+    left: 200px;
+    bottom: 0px;
+}
